@@ -1,6 +1,5 @@
 class Solution {
     private List<List<Integer>> ans = new ArrayList<>();
-
     public void backtrack(int first, ArrayList<Integer> curr, int[] nums, int k) {
         if (curr.size() > k) return;
         if (curr.size() == k) {
@@ -13,7 +12,6 @@ class Solution {
             curr.remove(curr.size() - 1);
         }
     }
-
     public List<List<Integer>> subsets(int[] nums) {
         for (int k = 0; k <= nums.length; k++) {
             backtrack(0, new ArrayList<Integer>(), nums, k);
