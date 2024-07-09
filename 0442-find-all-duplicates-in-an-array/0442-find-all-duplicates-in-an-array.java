@@ -11,9 +11,8 @@ class Solution {
             }
         }
         
-        // Restore the array (optional, depends on the problem requirements)
         for (int i = 0; i < nums.length; i++) {
-            nums[i] = Math.abs(nums[i]); // Restore original values
+            nums[i] = Math.abs(nums[i]);
         }
         
         return duplicates;
