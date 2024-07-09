@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/swastiktripathii/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swastiktripathii/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/swastiktripathii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/swastiktripathii/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swastiktripathii/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/swastiktripathii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
