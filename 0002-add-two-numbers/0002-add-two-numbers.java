@@ -19,7 +19,7 @@ class Solution {
             tail = tail.next;
         }
 
-        if (carry > 1) tail.next = new ListNode(1);
+        if (carry > 0) tail.next = new ListNode(1);
         return result.next;
     }
 }
