@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/swastiktripathii/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swastiktripathii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swastiktripathii/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/swastiktripathii/Leetcode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/swastiktripathii/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swastiktripathii/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/swastiktripathii/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
