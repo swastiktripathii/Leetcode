@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/swastiktripathii/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swastiktripathii/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/swastiktripathii/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/swastiktripathii/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swastiktripathii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swastiktripathii/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/swastiktripathii/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swastiktripathii/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/swastiktripathii/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swastiktripathii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swastiktripathii/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/swastiktripathii/Leetcode/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/swastiktripathii/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -39,10 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/swastiktripathii/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/swastiktripathii/Leetcode/tree/master/0268-missing-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swastiktripathii/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/swastiktripathii/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swastiktripathii/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/swastiktripathii/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/swastiktripathii/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
