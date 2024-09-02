@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/swastiktripathii/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/swastiktripathii/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/swastiktripathii/Leetcode/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/swastiktripathii/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swastiktripathii/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/swastiktripathii/Leetcode/tree/master/0136-single-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swastiktripathii/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
