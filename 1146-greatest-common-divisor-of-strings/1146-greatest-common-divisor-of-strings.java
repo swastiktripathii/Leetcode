@@ -6,14 +6,12 @@ class Solution {
         int gcdlength = gcd(str1.length(),str2.length());
         return str1.substring(0,gcdlength);
     }
-    private int gcd(int n1, int n2) {
-        while(n1!=n2)   
-            {  
-                if(n1>n2)  
-                    n1=n1-n2;  
-                else  
-                    n2=n2-n1;  
-            }
-        return n2;
+    private int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 }
